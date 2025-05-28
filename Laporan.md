@@ -13,8 +13,11 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## 1. Aktor/Role
 Aktor/Role
-A.  Penjual berperan sebagai megelola pesanan dari pembeli yang memesan sesuai dengan apa yang mereka inginkan, pihak penjual akan melakukan pengerjaan setelah pembeli melakukan transaksi Down Payment. Setelah pesanan selesai pihak penjual akan menginformasikan pembeli      untuk segera melakukan pengambilan pesanan dan melakukan Full Payment atau bisa juga melalui pengiriman
+
+A.  Penjual berperan sebagai megelola pesanan dari pembeli yang memesan sesuai dengan apa yang mereka inginkan, pihak penjual akan melakukan pengerjaan setelah pembeli melakukan transaksi Down Payment. Setelah pesanan selesai pihak penjual akan menginformasikan pembeli untuk segera melakukan pengambilan pesanan dan melakukan Full Payment atau bisa juga melalui pengiriman
+
 B.  Pelanggan berperan sebagai memesan sesuai apa yang mereka inginkan setelah melakukan Down Payment, hingga akhirnya diberitahukan oleh pihak penjual dan dapat mengambil pesanan setelah melakukan Full Payment.
+
 c.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk
 
 
