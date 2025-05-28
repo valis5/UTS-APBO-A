@@ -86,6 +86,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | status_kirim  | ENUM('Dalam Pengiriman','Terkirim','Gagal') | Status kirim                   |
 
 ## 4. Relasi
+![image](https://github.com/user-attachments/assets/ccb059f0-9781-4917-bb67-92acfab40773)
 
 ## 5. Class Diagram
 ![image](https://github.com/user-attachments/assets/d4563524-7c32-4ca0-a5eb-d1d0198baa88)
