@@ -88,3 +88,4 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ## 4. Relasi
 
 ## 5. Class Diagram
+![image](https://github.com/user-attachments/assets/d4563524-7c32-4ca0-a5eb-d1d0198baa88)
