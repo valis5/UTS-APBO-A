@@ -22,7 +22,7 @@ C.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk.
 
 
 ## 2. Use Case Diagram
-![WhatsApp Image 2025-05-29 at 01 22 27_4eeb3e2e](https://github.com/user-attachments/assets/09618d72-969d-48fe-a27f-cbd22302d298)
+![image](https://github.com/user-attachments/assets/afcfcca0-7a38-4067-8d11-a978ed2fbe8d)
 
 ### 3. Entitas Utama
 
