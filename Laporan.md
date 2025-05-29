@@ -11,8 +11,14 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## Percetakan Anavalis
 Bisnis yang kami pilih untuk dianalisis dalam pembuatan sistem informasi berikutnya adalah usaha Percetakan milik dari salah satu anggota kami.  Percetakan ini berskala mini & melayani beberapa kebutuhan cetak, mulai berdasarkan undangan, brosur, stiker, banner, sampai print dokumen. Lokasi bisnis berada di Cibinong, Kab. Bogor.
+
 Seluruh proses pemesanan waktu ini dilakukan secara manual melalui WhatsApp dan Gmail. Pelanggan mengirim arsip desain, berukuran cetak, & jumlah pesanan secara eksklusif melalui chat. Proses komunikasi berlangsung 2 arah untuk konfirmasi, revisi, dan ketika pengambilan atau pengiriman output cetakan. Lantaran pemilik bisnis kurang tahu sistem digital yg lebih kompleks, belum terdapat sistem pencatatan digital otomatis ataupun integrasi menggunakan sistem pembayaran online. Semua pembayaran bisa dilakukan secara tunai (cash) ataupun secara non-tunai waktu pengambilan barang.
+
 Alur usaha percetakan ini dimulai berdasarkan proses pemasaran sederhana melalui status WhatsApp atau kenaikan pangkat berdasarkan ekspresi ke ekspresi. Apabila terdapat pemesanan masuk, pemilik akan mempelajari arsip, mencetak sinkron kebutuhan, kemudian menginformasikan kapan output cetakan mampu diambil. Produksi dilakukan menggunakan mesin printer skala rumahan. Dalam masalah cetakan besar, percetakan ini akan bekerja sama menggunakan vendor percetakan lain. Hasil cetakan yg sudah terselesaikan umumnya diambil eksklusif sang pelanggan, atau pada beberapa masalah diantar sang pemilik bisnis.
+
+![image](https://github.com/user-attachments/assets/57e52483-4838-417d-9e58-dc133fe85d9c)
+
+
 ## 1. Aktor/Role
 Aktor/Role
 
