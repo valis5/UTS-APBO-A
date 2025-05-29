@@ -35,7 +35,7 @@ C.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk.
 | alamat          | TEXT                          | Alamat pelanggan                  |
 | email           | VARCHAR(100)                  | Email aktif pelanggan             |
 | no_telepon     | VARCHAR(20)                   | Nomor telepon/HP                  |
-| tipe_pelanggan | ENUM('Individu','Perusahaan') | Jenis p |
+| tipe_pelanggan | ENUM('Individu','Perusahaan') | Jenis pelanggan |
 
 ### B. Produk
 | Atribut         | Tipe Data     | Keterangan                            |
