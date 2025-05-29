@@ -106,8 +106,7 @@ C.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk.
 ![image](https://github.com/user-attachments/assets/019e3b26-97f5-4e34-b5ba-5b38715d8478)
 
 ## 5. Class Diagram
-![image](https://github.com/user-attachments/assets/98f48e9c-6eb3-436c-81ea-d88ee8be6c6a)
-
+![image](https://github.com/user-attachments/assets/0901221d-a8bc-4d4b-8696-0ed452867e19)
 
 ## 6. Mock up/Wireframe
 
