@@ -109,11 +109,15 @@ C.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk.
 ![image](https://github.com/user-attachments/assets/d4563524-7c32-4ca0-a5eb-d1d0198baa88)
 
 ## 6. Mock up/Wireframe
+![Home page](https://github.com/user-attachments/assets/974b00b2-a3ec-48a6-8657-2e0b4368530a)
 
 ### a. 
+![Karyawan Page](https://github.com/user-attachments/assets/a541fe12-5b21-40ab-9d6b-5ed7fcca7875)
 
 ### b.
+![Pesanan page](https://github.com/user-attachments/assets/8589acf3-6a0d-476a-b2fd-8d04e810cae7)
 
 ### c.
+![Product Page](https://github.com/user-attachments/assets/690c5690-c83c-41e4-bcb0-71cd51eedac4)
 
 ### d.
