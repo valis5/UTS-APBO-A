@@ -110,8 +110,12 @@ C.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk.
 
 ## 6. Mock up/Wireframe
 
-### a. Home Page
-https://www.figma.com/design/e22YpbSG7NC39AWXEWXcdC/Anavalis-Printing-Mockup?node-id=2-2&t=8o942GOWZefGlLeJ-4
+### a. Login Page
+![image](https://github.com/user-attachments/assets/2a106471-8d7d-4b89-a90c-14fc1c5bfe4d)
+
+![image](https://github.com/user-attachments/assets/efcfe0e3-2518-4ed8-9b00-49ac5e142f1c)
+
+![image](https://github.com/user-attachments/assets/06d82ef5-bf04-479c-a1b6-d98832c37aed)
 
 ### b. Karyawan Page
 ![Karyawan Page](https://github.com/user-attachments/assets/a541fe12-5b21-40ab-9d6b-5ed7fcca7875)
@@ -120,4 +124,8 @@ https://www.figma.com/design/e22YpbSG7NC39AWXEWXcdC/Anavalis-Printing-Mockup?nod
 ![Pesanan page](https://github.com/user-attachments/assets/8589acf3-6a0d-476a-b2fd-8d04e810cae7)
 
 ### d. Product Page
-![Product Page](https://github.com/user-attachments/assets/690c5690-c83c-41e4-bcb0-71cd51eedac4)
+![image](https://github.com/user-attachments/assets/cb345fa5-3bfe-47d9-a915-e3270de7b1f7)
+
+
+![image](https://github.com/user-attachments/assets/037872ac-d06d-4117-8f3a-9a1b7007c169)
+
