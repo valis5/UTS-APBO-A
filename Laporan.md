@@ -111,7 +111,7 @@ C.  Admin berperan sebagai mengelola pesanan pelanggan dan mengelola produk.
 ## 6. Mock up/Wireframe
 
 ### a. Home Page
-![Home page](https://github.com/user-attachments/assets/974b00b2-a3ec-48a6-8657-2e0b4368530a)
+https://www.figma.com/design/e22YpbSG7NC39AWXEWXcdC/Anavalis-Printing-Mockup?node-id=2-2&t=8o942GOWZefGlLeJ-4
 
 ### b. Karyawan Page
 ![Karyawan Page](https://github.com/user-attachments/assets/a541fe12-5b21-40ab-9d6b-5ed7fcca7875)
